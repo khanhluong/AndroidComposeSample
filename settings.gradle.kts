@@ -7,4 +7,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "ComposeApp"
-include ':app'
+include(":app")
